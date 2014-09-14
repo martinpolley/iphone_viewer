@@ -1,0 +1,10 @@
+/* Made by Martin Polley: */
+/*     http://livetyping.capcloud.com */
+/*     http://twitter.com/martinpolley */
+
+/* Uses Foundation from ZURB: http://foundation.zurb.com */
+
+/* The iPhone template is from here (thanks!): */
+/*     http://99designs.com/designer-blog/2012/12/03/responsive-web-design-key-tips-and-approaches/ */
+
+/* humanstxt.org */

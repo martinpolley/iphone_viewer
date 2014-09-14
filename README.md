@@ -1,0 +1,1 @@
+This is a simple thing for viewing your HTML prototypes in the browser as if they were on an iPhone.
